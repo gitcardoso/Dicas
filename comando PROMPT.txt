@@ -1,0 +1,52 @@
+<<<LISTA DE COMANDOS DO PROMPT DE COMANDO DO WINDOWS>>>
+
+
+dir: Listando arquivos e pastas
+
+copy: Copiar arquivos
+
+move: Mover arquivos ou renomear pastas
+
+md: Criar uma Nova pasta
+
+cd: Entrar em uma pasta
+
+cd..: Retornar para a pasta anterior
+
+rd: Remover pastas
+
+erase: Deletar arquivos
+
+del:  Deletar arquivos
+
+ren: Renomear arquivos (EX: ren imagem.jpg foto.jpg)
+
+time:  O comando time permite acertar a hora e o comando date permite corrigir a data.
+
+bootcfg: Permite ver as configurações do seu menu de boot
+
+defrag: Desfragmentador de disco.
+
+diskpart: Gerencia as partições de um disco.
+
+driverquery: Mostra a lista de drivers instalados no Windows e as respectivas propriedades.
+
+fsutil: O comando fsutil tem vários complementos que serão listados digitando-o sem nenhum parâmetro. Digite fsutil fsingo drives e terá a lista dos drives no seu micro.(executar o cmd como administrador)
+
+gepresult: Este comando mostrará configurações de usuários e de diretivas de grupos.
+
+recover: Permite a recuperação de arquvios em disco danificado.
+
+reg: Comando para exportar chaves do registro, copiar, restaurar, comparar, etc.
+
+schtasks: Para agendar, executar, alterar ou deletar tarefas numa máquina local ou remota com Windows.
+
+sfc: Comando que permite verificar arquivos de sistemas alterados de forma indevida e recuperar os arquivos originais e oficiais da Microsoft., o que nem sempre será recomendável. Por exemplo, o arquivo uxtheme.dll modificado para permitir o uso de temas voltaria a ser substituído pelo original.
+
+shutdown: O comando shutdown permite desligar ou reiniciar o computador de forma imediata ou agendada.
+
+systeminfo: Fornece informações básicas sobre o sistema.
+
+tasklist: Mostra a lista de processos sendo executados no Windows.
+
+:) 

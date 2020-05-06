@@ -1,0 +1,45 @@
+"#" - comentário no .gitignore
+
+
+# adicionar repositório remoto à um local
+git remote add origin <url>
+
+# ver url de repositorio remoto
+git remote -v
+
+
+# alterar url de repositório remoto
+git remote set-url origin <url>
+
+
+# alterar último commit
+git commit --amend
+git push origin master -f
+
+
+# renomear último commit
+git commit --amend -m "<novo nome>"
+
+
+# renomer histórico de commits
+git rebase -i HEAD~1
+git commit --amend
+git rebase --continue
+git push origin master -f
+
+
+# alterar o autor de um commit
+git commit --amend --author "Novo nome <email@email.com>
+
+
+# alterar o autor de mais de um commit
+git filter-branch -f --commit-filter "if [ "$GIT_AUTHOR_EMAIL"="camila.belo@rocket-internet.com.br" ]; then export GIT_COMMITTER_NAME="camilaibs"; export GIT_COMMITTER_EMAIL="camilaibs@gmail.com"; export GIT_AUTHOR_NAME="camilaibs"; export GIT_AUTHOR_EMAIL="camilaibs@gmail.com"; fi; git commit-tree "$@""
+
+
+# renomear branch
+git branch -m <nome antigo> <novo nome>
+
+
+# deletar branch
+git push origin :restaurant_chain (remota)
+git branch -D restaurant_chain (local)
