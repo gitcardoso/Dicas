@@ -1,4 +1,4 @@
-"#" - comentário no .gitignore
+<<<COMANDOS GIT>>>
 
 
 # adicionar repositório remoto à um local
@@ -43,3 +43,5 @@ git branch -m <nome antigo> <novo nome>
 # deletar branch
 git push origin :restaurant_chain (remota)
 git branch -D restaurant_chain (local)
+
+:)
