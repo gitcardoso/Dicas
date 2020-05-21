@@ -1,0 +1,53 @@
+<<<ATALHOS PARA WINDOWS>>>
+
+
+Tecla Windows + E   ==>   Abrir Internet explorer
+
+
+Tecla Windows + H   ==>   Acionar digitação por comando de voz
+
+
+Alt + Tab   ==>   Alterna entre os programas
+
+
+Shift + Tecla Windows + S   ==>   Captura de tela 
+
+
+CTRL + Shift +Esc   ==>   Abrir gerenciador de tarefas
+
+
+Tecla Windows + G   ==>   Gravação de tela
+	(Tecla Windows + ALT + R  ==>  Record)
+
+
+CTRL + Esc   ==>   Abrir menu Iniciar
+
+
+Tecla windows + V   ==>   Visualizar histórico de cópias  ==>  
+
+
+Alt + F4   ==>   Fechar janela atual
+
+
+CTRL + Tecla Windows + D   ==>   Alternar área de trabalho
+	(CTRL + Tecla Windows + Seta esq/dir  ==>  Alternar áreas de trabalho)
+
+
+Alt + Space   ==>   Abrir o menu do programa
+
+
+Tecla do windos + .   ==>   Abre opções de Emoji
+
+
+CTRL + shift + T   ==>   Abrir uma aba no browser que havia fechado por engano
+
+
+CTRL + P   ==>   Salvar uma página web como PDF
+
+
+Tecla Windows + R   ==>   Abrir janela executar
+
+
+CTRL + S   ==>   Salvar arquivo no Word
+
+:)
