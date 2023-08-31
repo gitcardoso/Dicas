@@ -50,4 +50,7 @@ Tecla Windows + R   ==>   Abrir janela executar
 
 CTRL + S   ==>   Salvar arquivo no Word
 
+Contribuir com um atalho
+CTRL + Alt + Delete  ==>   Visualizar programas em processamento
+
 :)
